@@ -1,11 +1,11 @@
 ## Hi Github! ✌️👨🏻‍💻
 
-<div align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/></div>
+<div align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/></div>&nbsp;
 
 
 ![Static Badge](https://img.shields.io/badge/Facebook-Yossawaj_Bowonsrithananon-00B2FF?logo=facebook&labelColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Discord-frostbitz__x-FF00BF?logo=discord&labelColor=FFFFFF&color=7289da) ![Static Badge](https://img.shields.io/badge/Instagram-%40flukz__x-FF00BF?logo=instagram&labelColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Github-FrostBitzX-black?logo=github&logoColor=000000&labelColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/threads-%40flukz__x-FF00BF?logo=threads&logoColor=000000&labelColor=FFFFFF&color=000000)
 
-## 
+##
 <h3>👋 About me :</h3>
 
 <b><img align="center" src="https://i.giphy.com/media/yFtAJsOnicqH635JGg/giphy.webp" width="60" height="60">My name is Yossawaj Bowonsrithananon. (Fluke)</b>
@@ -14,8 +14,7 @@
 - 🌱 I am studying in [Kasetsart University](https://en.wikipedia.org/wiki/Kasetsart_University), Faculty of Science, Computer Science. (CS37 💻)
 - 📫 I live in Bangkok, Thailand.
 
-## 
-
+##
 <h3>:hammer_and_wrench: Languages and Tools :</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
@@ -26,7 +25,7 @@
   
 </div>
 
-## 
+##
 <h3>:fire: My Stats :</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FrostBitzX&theme=react)](https://git.io/streak-stats)
