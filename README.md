@@ -7,7 +7,8 @@
 ![Static Badge](https://img.shields.io/badge/Facebook-Yossawaj_Bowonsrithananon-00B2FF?logo=facebook&labelColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Discord-frostbitz__x-FF00BF?logo=discord&labelColor=FFFFFF&color=7289da) ![Static Badge](https://img.shields.io/badge/Instagram-%40flukz__x-FF00BF?logo=instagram&labelColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/threads-%40flukz__x-FF00BF?logo=threads&logoColor=000000&labelColor=FFFFFF&color=000000)
 
 ## 
-<h3>:hammer_and_wrench: Languages and Tools :</h3>
+<h3>👋 About me :</h3>
+
 - 🏫 I graduated from [Horwang School](https://en.wikipedia.org/wiki/Horwang_School). (HW50 🎓)
 - 🌱 I am studying in [Kasetsart University](https://en.wikipedia.org/wiki/Kasetsart_University), Faculty of Science, Computer Science. (CS37 💻)
 - 📫 I live in Bangkok, Thailand.
