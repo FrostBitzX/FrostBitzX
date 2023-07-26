@@ -1,7 +1,7 @@
 ## README.md
 
 <h3 align="center">
-        <samp>&gt; Hey There! ✌️👨🏻‍💻</samp>
+        <samp>&gt; Hey There! ✌️</samp>
 </h3>
 
 <div align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/></div>&nbsp;
