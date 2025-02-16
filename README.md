@@ -1,46 +1,16 @@
-## Introduction
-
-<h3 align="center">
-        <samp>&gt; Hey There! ✌️</samp>
-</h3>
-
-<div align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/></div>&nbsp;
-
-<h3 align="center">
-
-![Static Badge](https://img.shields.io/badge/Facebook-Yossawaj_Bowonsrithananon-00B2FF?logo=facebook&labelColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Discord-frostbitz__x-FF00BF?logo=discord&labelColor=FFFFFF&color=7289da) ![Static Badge](https://img.shields.io/badge/Instagram-%40flukz__x-FF00BF?logo=instagram&labelColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/Github-FrostBitzX-black?logo=github&logoColor=000000&labelColor=FFFFFF) ![Static Badge](https://img.shields.io/badge/threads-%40flukz__x-FF00BF?logo=threads&logoColor=000000&labelColor=FFFFFF&color=000000)
-
-</h3>
-<h3 align="center">
-  
-![Static Badge](https://img.shields.io/badge/Wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=FFFFFF&color=444140) ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white) ![Static Badge](https://img.shields.io/badge/IntelliJ_IDEA-blue?style=for-the-badge&logo=intellij%20idea&color=FF2D76)
+# 💫 About Me:
+☔Hi, My name is Yossawaj Bowonsrithananon **(Fluke)**.<br>🎓 I’m a 3rd-year student at Kasetsart University **(Computer Science)**.<br>🌱 I’m currently learning about Web and Software Development.
 
 
-</h3>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Yossawaj.bowonsrithananon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flukz_x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yossawaj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:f_yossawaj@hotmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/frostbitz_x)
 
-##
-<h3>👋 About me :</h3>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=flat&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FrostBitzX&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=FrostBitzX&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrostBitzX&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<b><img align="center" src="https://i.giphy.com/media/yFtAJsOnicqH635JGg/giphy.webp" width="60" height="60">My name is Yossawaj Bowonsrithananon. (Fluke)</b>
-
-- 🏫 I graduated from [Horwang School](https://en.wikipedia.org/wiki/Horwang_School). (HW50 🎓)
-- 🌱 I am studying in [Kasetsart University](https://en.wikipedia.org/wiki/Kasetsart_University), Faculty of Science, Computer Science. (CS37 💻)
-- 📫 I live in Bangkok, Thailand.
-
-##
-<h3>:hammer_and_wrench: Languages and Tools :</h3>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" **alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  
-</div>
-
-##
-<h3>:fire: My Stats :</h3>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FrostBitzX&theme=react)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrostBitzX&layout=donut&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=FrostBitzX&limit=5&theme=dark&combine_all_yearly_contributions=true)
