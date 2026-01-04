@@ -1,5 +1,5 @@
 # 💫 About Me:
-☔Hi, My name is Yossawaj Bowonsrithananon **(Fluke)**.<br>🎓 I’m a 3rd-year student at Kasetsart University **(Computer Science)**.<br>🌱 I’m currently learning about Web and Software Development.
+☔Hi, My name is Yossawaj Bowonsrithananon **(Fluke)**.<br>🎓 I’m a 4th-year student at Kasetsart University **(Computer Science)**.<br>🌱 I’m currently learning about Web and Software Development.
 
 
 ## 🌐 Socials:
