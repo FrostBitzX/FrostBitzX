@@ -1,16 +1,62 @@
-# 💫 About Me:
-☔Hi, My name is Yossawaj Bowonsrithananon **(Fluke)**.<br>🎓 I’m a 4th-year student at Kasetsart University **(Computer Science)**.<br>🌱 I’m currently learning about Web and Software Development.
+# Hi, I'm Yossawaj Bowonsrithananon (Fluke) ✌👋
+[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yossawaj) [![](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:f_yossawaj@hotmail.com) [![](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/FrostBitzX/) [![](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/f_yossawaj)
 
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img alt="FrostBitzX's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=FrostBitzX&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a><a href="https://github.com/anuraghazra/github-readme-stats"><img alt="FrostBitzX's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=FrostBitzX&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Yossawaj.bowonsrithananon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flukz_x) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yossawaj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:f_yossawaj@hotmail.com) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/frostbitz_x)
+## Talking About Me
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat&logo=javafx&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=flat&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=flat&logo=sketchup&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FrostBitzX&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FrostBitzX&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrostBitzX&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Again, I'm Yossawaj Bowonsrithananon, but you can call me Fluke 🥰. I'm a software engineer from Thailand who is passionate about building products that create real value for users and businesses.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FrostBitzX&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I recently graduated with a Bachelor's degree in Computer Science from Kasetsart University, Bangkhen Campus. During my journey, I've developed experience across both frontend and backend development and discovered that I enjoy contributing throughout the entire software development lifecycle.
+
+-   🎓 I recently graduated in Computer Science from Kasetsart University, Bangkhen Campus.
+    
+-   👨🏽‍💻 I have 6 months of internship experience in software engineering and am currently seeking opportunities as a Software Engineer.
+    
+-   🛠️ I enjoy working with technologies such as Golang, Next.js, MySQL, Playwright, and modern web technologies.
+    
+-   💭 I believe great software comes from understanding users, taking ownership, and continuously learning.
+    
+-   ❤ I love building products end-to-end, from backend services and frontend applications to testing, deployment, and operations.
+    
+-   🌱 I'm continuously improving my technical skills and expanding my knowledge across the entire software development lifecycle.
+    
+-   🚀 My long-term goal is to become an engineer who can contribute across backend, frontend, testing, and deployment while constantly learning new technologies and eventually growing in a Big Tech environment.
+    
+-   💬 Feel free to ask me about Golang, web development, software engineering, or anything interesting in tech.
+    
+-   📫 How to reach me: [f_yossawaj@hotmail.com](mailto:f_yossawaj@hotmail.com)
+    
+-   ⚡ Fun fact: I genuinely enjoy learning new technologies and challenging myself to become a better engineer every day.
+
+## Languages and Tools
+Note: I can write any language as long as I get paid. But these are my preferences. 😂
+
+### Language
+
+[![Programming Languages](https://skillicons.dev/icons?i=java,go,javascript,typescript,c,cpp,python)](https://skillicons.dev)
+
+### Backend
+
+[![Backend](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
+
+### Frontend
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,vuejs)](https://skillicons.dev)
+
+### Database
+
+[![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite)](https://skillicons.dev)
+
+### Real-World Software Engineering Tools/Techniques
+
+[![Real-World Software Engineering Tools/Techniques](https://skillicons.dev/icons?i=supabase,vercel,jenkins,githubactions,maven,grafana,figma,idea,postman,tailwind,ps,ae,pr,wordpress,sketchup)](https://skillicons.dev)
+
+### Cloud & Deployment:
+
+[![Cloud & Deployment](https://skillicons.dev/icons?i=docker,aws,cloudflare)](https://skillicons.dev)
+
+### Others
+
+[![Others](https://skillicons.dev/icons?i=git,github,gitlab,linux,ubuntu,apple)](https://skillicons.dev)
+-
